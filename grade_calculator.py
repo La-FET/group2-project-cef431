@@ -5,7 +5,7 @@ A small module that calculates a student's average score, letter grade
 and pass/fail status. Used as the sample project for our Jenkins CI pipeline.
 """
 
-PASS_MARK = 60
+PASS_MARK = 50
 
 GRADE_BOUNDARIES = [
     (80, "A"),
